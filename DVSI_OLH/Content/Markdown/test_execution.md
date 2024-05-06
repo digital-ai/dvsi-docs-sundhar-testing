@@ -1,6 +1,6 @@
 # Test Execution Dashboard
 
-(change)The Test Execution dashboard provides a detailed view of test execution trends and execution status across the applications, devices, and versions. The dashboard delivers significant insights into the utilization and performance of execution devices and exhibits the trend of successful and failed test execution rates. With these insights, you can identify the gaps in continuous testing, gauge the device or version crash rate, and mitigate those to facilitate the continuous delivery process.
+(change_1)The Test Execution dashboard provides a detailed view of test execution trends and execution status across the applications, devices, and versions. The dashboard delivers significant insights into the utilization and performance of execution devices and exhibits the trend of successful and failed test execution rates. With these insights, you can identify the gaps in continuous testing, gauge the device or version crash rate, and mitigate those to facilitate the continuous delivery process.
 
 The dashboard supports the last six months' test execution summary with the Continuous Testing source that allows you to remotely test multiple versions of the physical devices in the cloud.
 
