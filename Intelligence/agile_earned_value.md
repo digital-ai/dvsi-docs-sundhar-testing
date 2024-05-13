@@ -1,6 +1,6 @@
 # Agile Earned Value dashboard
 
-(some change) The Agile Earned Value dashboard enables Agile teams to compare their release plan with the actual work completed. This dashboard helps teams to identify potential issues and ensure they stay on schedule and within budget. You can use the Agile Earned Value panel as an Agile environment alternative to traditional earned value reporting.
+(new change)(some change) The Agile Earned Value dashboard enables Agile teams to compare their release plan with the actual work completed. This dashboard helps teams to identify potential issues and ensure they stay on schedule and within budget. You can use the Agile Earned Value panel as an Agile environment alternative to traditional earned value reporting.
 
 The Last refresh date on this dashboard refers to the date and time when the data displayed on the dashboard was last updated or refreshed from the underlying data sources. You can know the data's freshness and make informed decisions based on the most recent information.
 
